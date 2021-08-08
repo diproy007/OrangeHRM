@@ -1,5 +1,6 @@
 @regressionTest
 @smokeTest 
+@jenkinsTest
 Feature: Verify login feature in Orange HRM website 
 
 Scenario: dip able to successfully login to Orange HRM site 
